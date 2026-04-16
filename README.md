@@ -1,8 +1,8 @@
 # 🎓 Calculadora de Média Escolar Pro
 
-![Python](https://shields.io)
-![CustomTkinter](https://shields.io)
-![License](https://shields.io)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![CustomTkinter](https://img.shields.io/badge/UI-customtkinter-464646?logo=Python)
+![License]([https://shields.io](https://img.shields.io/badge/license-MIT-blue))
 
 Uma aplicação desktop moderna desenvolvida em Python para facilitar o controle de notas estudantis. O sistema calcula médias automaticamente e permite exportar os dados diretamente para arquivos Excel.
 
