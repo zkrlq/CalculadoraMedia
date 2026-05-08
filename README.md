@@ -26,7 +26,6 @@ calculadora-media/
 │
 ├── CalculadoraMedia.py
 ├── CalculadoraMedia.exe
-├── requirements.txt
 └── README.md
 ```
 
